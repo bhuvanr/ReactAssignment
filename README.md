@@ -1,3 +1,4 @@
-# ReactAssignment
+Deployed App - https://bhuvanr.github.io/ReactAssignment/
 
-Deployed App - http://bhuvanr.github.io/ReactAssignment
+
+This App also works offline.
